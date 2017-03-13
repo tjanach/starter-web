@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2017 tj.orange must be preserved
+2017 tj.orange. All rights reserved.
