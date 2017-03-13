@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tomek Janaszka tjanach@wp.pl @tjtwit
 
 # THANKS
 
